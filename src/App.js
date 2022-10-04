@@ -17,6 +17,17 @@ function App() {
               pre-orders
           </Button>
       </nav>
+          <main>
+              <article>
+                  <span>
+                  </span>
+                  <p>
+                  </p>
+                  <h4>
+
+                  </h4>
+              </article>
+          </main>
       </>
   );
 }
